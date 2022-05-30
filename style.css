@@ -1,0 +1,88 @@
+body{
+  background-image: url(https://free4kwallpapers.com/uploads/wallpaper/minneapolis-minnesota-wallpaper-1024x768-wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: arial, helvetica, sans-serif;
+}
+
+aside{
+  float: right;
+  max-width: 40%;
+  font-family: arial, helvetica, sans-serif;
+  border: 3px solid #867660;
+  background-color: rgba(102,171,240,.95);
+  margin-top: 50px;
+  margin-right: 100px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.header{
+  background-color: rgba(236,237,241,.90);
+  border: 3px solid #867660;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.experience-header{
+  width: 245px;
+  background-color: rgba(161,180,195,.95);
+  border: 3px solid #867660;
+  align-items: center;
+  padding-left: 40px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.job{
+  max-width: 60%;
+  background-color: rgba(99,125,74,.95);
+  border: 3px solid #867660;
+  padding-left: 10px;
+  margin-left: 75px;
+  margin-bottom: 10px;
+}
+
+.education-header{
+  width: 200px;
+  background-color: rgba(161,180,195,.95);
+  border: 3px solid #867660;
+  align-items: center;
+  padding-left: 40px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.education{
+  max-width: 60%;
+  background-color: rgba(99,125,74,.95);
+  border: 3px solid #867660;
+  padding-left: 10px;
+  margin-left: 75px;
+  margin-bottom: 10px;
+}
+
+.military-header{
+  width: 340px;
+  background-color: rgba(161,180,195,.95);
+  border: 3px solid #867660;
+  align-items: center;
+  padding-left: 40px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.military{
+  max-width: 60%;
+  background-color: rgba(99,125,74,.95);
+  border: 3px solid #867660;
+  padding-left: 10px;
+  margin-left: 75px;
+  margin-bottom: 10px;
+}
